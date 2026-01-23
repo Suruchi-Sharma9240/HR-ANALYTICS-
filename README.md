@@ -45,12 +45,20 @@ This HR Analytics project focuses on analyzing employee data to uncover meaningf
    
        🧠 Key Business Questions Answered
  * Why are employees leaving the organization?
+   Answer: Employees are leaving mainly due to low job satisfaction, limited career growth, high workload, and compensation mismatch.
+   
  * Which departments and job roles have high attrition?
+   Answer: Sales, HR, and junior-level job roles show the highest attrition compared to other departments.
+   
  * How do salary, experience, and job satisfaction affect retention?
+ Answer:  Analysis shows that lower salary, fewer years of experience, and poor job satisfaction significantly increase the likelihood of employees leaving.
+
  * Which employee segments are at higher risk of attrition?
+   Answer: Younger employees, entry-level staff, and employees with low performance ratings or overtime work are at higher risk of attrition.
    
         🚀 Outcome
- * This project showcases my ability to:
+   This project showcases my ability to:
+   
  * Analyze HR data using Excel
  * Build insightful Tableau dashboards
  * Translate data into business-focused HR insights
